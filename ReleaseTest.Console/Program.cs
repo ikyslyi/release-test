@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("First release in \"Hello, World!\" app");
+Console.WriteLine("Preparing for the Second release in The app");
+Console.Read();
